@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Pengjie Song (宋鹏捷). 👋 Welcome!
 
 <!--
 **spengjie/spengjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-spengjie.vercel.app/api?username=spengjie&count_private=true&show_icons=true&bg_color=30,3ff29d,1db0fd&text_color=fff&icon_color=fff&title_color=fff&hide_border=true" alt="GitHub Stats" width="425" height="170" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-spengjie.vercel.app/api/top-langs/?username=spengjie&layout=compact&bg_color=30,3ff29d,1db0fd&text_color=fff&icon_color=fff&title_color=fff&hide_border=true" alt="Top Languages" width="425" height="170" />
+</a>
