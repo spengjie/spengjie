@@ -1,4 +1,4 @@
-### Hi there, My name is Pengjie Song (宋鹏捷). 👋 Welcome!
+### Hi there, 👋 My name is Pengjie Song (宋鹏捷). Welcome!
 
 <!--
 **spengjie/spengjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
