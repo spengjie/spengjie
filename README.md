@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-spengjie.vercel.app/api?username=spengjie&count_private=true&show_icons=true&bg_color=30,3ff29d,1db0fd&text_color=fff&icon_color=fff&title_color=fff&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-spengjie.vercel.app/api?username=spengjie&count_private=true&show_icons=true&bg_color=30,3ff29d,1db0fd&text_color=fff&icon_color=fff&title_color=fff&hide_border=true" alt="GitHub Stats" height="167" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-spengjie.vercel.app/api/top-langs/?username=spengjie&layout=compact&bg_color=30,3ff29d,1db0fd&text_color=fff&icon_color=fff&title_color=fff&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-spengjie.vercel.app/api/top-langs/?username=spengjie&layout=compact&bg_color=30,3ff29d,1db0fd&text_color=fff&icon_color=fff&title_color=fff&hide_border=true" alt="Top Languages" height="167" />
 </a>
